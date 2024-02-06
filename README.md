@@ -21,7 +21,7 @@ This is a sample project demonstrating how to build and run a Spring Boot applic
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/tu-usuario/lite-project.git
+git clone https://github.com/your-user/lite-project.git
 ```
 
 2. Navigate to the project directory:
