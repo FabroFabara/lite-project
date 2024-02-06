@@ -8,6 +8,7 @@ public class LiteProjectApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(LiteProjectApplication.class, args);
+        System.out.println("Hello, My name is Fabricio Fabara");
         System.out.println("Hello Fabricio the Lite Project is running...");
     }
 
