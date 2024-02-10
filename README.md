@@ -51,7 +51,7 @@ http://localhost:8080
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/your-user/lite-project.git
+git clone https://github.com/FabroFabara/lite-project.git
 ```
 
 2. Navigate to the project directory:
