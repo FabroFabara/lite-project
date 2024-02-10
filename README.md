@@ -39,8 +39,6 @@ docker-compose build
 docker-compose up --build
 ```
 5. Finally display the requested message
-   
-<img width="1418" alt="image" src="https://github.com/FabroFabara/lite-project/assets/92126613/1d93d05d-11b4-4612-91ea-320f62f2ddc1">
 
 6. Access the application in your web browser:
 ```bash
@@ -73,13 +71,12 @@ cd build/libs
 ```bash
 ls
 ```
-<img width="593" alt="image" src="https://github.com/FabroFabara/lite-project/assets/92126613/80c0daae-3bf2-4ff6-91f4-6226037bb5f0">
 
-6. Finally execute the next command and it display the requested message in the task
+6. Finally execute the next command and it displays the requested message in the task
 ```bash
 java -jar lite-project.jar 
 ```
-<img width="1448" alt="image" src="https://github.com/FabroFabara/lite-project/assets/92126613/9d95fe9c-1de5-46a3-9d52-77276e23f75f">
+
 
 
 
